@@ -1,6 +1,6 @@
 <p align="center">
   <img id="charzard" src="./src/pokemons/006.png">
-  <h1 style="font-align: center;">Poketab</h1>
+  <h1 style="text-align: center;">Poketab</h1>
 </p>
 
 ## About

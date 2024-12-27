@@ -13,3 +13,4 @@ poketab is a extension that gives you a simple new tab interface for chrome or o
 ![showcase2](./images/2.png)
 # credits
 - [max hu's wallpapers](https://github.com/maxhu08/wallpapers)
+</div>

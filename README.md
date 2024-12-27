@@ -1,4 +1,5 @@
 # poketab - A simple new tab extension
+![charzard](./src/pokemons/006.png)
 # info
 poketab is a extension that gives you a simple new tab interface for chrome or other browsers. 
 # features

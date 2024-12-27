@@ -2,6 +2,7 @@
 <img id="charzard" src="./src/pokemons/006.png">
 <h1>poketab</h1>
 </div>
+## about
 poketab is a extension that gives you a simple new tab interface for chrome or other browsers. 
 # features
 - customize wallpaper

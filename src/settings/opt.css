@@ -1,0 +1,46 @@
+
+body {
+    width: 100vh;
+    height: 50vh;
+    margin: 0;
+    background-color: rgb(40,40,40);
+}
+#wallpapers {
+    background-color: transparent;
+    max-height: 200px; 
+    width:100%; 
+    overflow-y: auto;
+}
+#searchbar {
+    word-wrap: break-word;
+    border-radius: 0.625rem;
+    border: 0.2rem solid #414559;
+    background-color: rgb(40,40,40);
+    width: 100%;
+    height: 3rem;
+    padding: 0.5rem;
+    color: #dce0e8;
+    font-size: 1.4375rem; 
+    font-family: "Jetbrains Mono", monospace;
+    box-sizing: border-box;
+    resize: none;
+    overflow: hidden;
+}
+h1 {
+    font-size: 2rem; 
+    font-family: "Jetbrains Mono", monospace;
+    color: #dce0e8;
+}
+button {
+    font-family: "Jetbrains Mono", monospace;
+    font-size: 1.4375rem; 
+    border: 0px solid transparent;
+    padding: 0.5rem;
+    width:100%;
+    height: 3rem;
+    background-color: transparent;
+    color: rgb(255,255,255)
+}
+button:hover {
+    background-color: rgb(35,35,35);
+}

@@ -1,5 +1,5 @@
 <p align="center">
-  <img id="charzard" src="./src/pokemons/006.png">
+  <img id="charzard" src="./src/pokemons/025.png">
 </p>
 <h1 align="center">pikatab</h1>
 

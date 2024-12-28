@@ -1,4 +1,10 @@
 /*tslint:disabled*/
+//bookmarks
+function getimage(url, callback) {
+    //thanks https://dev.to/derlin/get-favicons-from-any-website-using-a-hidden-google-api-3p1e
+    const image = `https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=${new URL(url).href}&size=128`;
+    callback(image);
+}
 chrome.bookmarks.getTree(function(bookmarkTreeis) {
     let buttonIndex = 0;
     bookmarkTreeis.forEach(function(i) {
@@ -25,12 +31,6 @@ chrome.bookmarks.getTree(function(bookmarkTreeis) {
         }
     }
 });
-
-function getimage(url, callback) {
-    //thanks https://dev.to/derlin/get-favicons-from-any-website-using-a-hidden-google-api-3p1e
-    const image = `https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=${new URL(url).href}&size=128`;
-    callback(image);
-}
 //pokemons
 const pokemonImages = 905
 function getRandomPokemonImage() {

@@ -17,3 +17,4 @@ Poketab is an extension that gives you a simple new tab interface for Chrome or 
 
 ## Credits
 - [Max Hu's Wallpapers](https://github.com/maxhu08/wallpapers)
+- [Get favicons from any domain using a hidden google API](https://dev.to/derlin/get-favicons-from-any-website-using-a-hidden-google-api-3p1e)

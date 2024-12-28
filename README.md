@@ -1,10 +1,10 @@
 <p align="center">
   <img id="charzard" src="./src/pokemons/006.png">
 </p>
-<h1 align="center">poketab</h1>
+<h1 align="center">pikatab</h1>
 
 ## About
-Poketab is an extension that gives you a simple new tab interface for Chrome or other browsers.
+pikatab is an extension that gives you a simple new tab interface for Chrome or other browsers.
 
 ## Installation (i'll add it to the chrome webstore later on maybe)
 Go to chrome://extensions

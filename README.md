@@ -6,6 +6,11 @@
 ## About
 Poketab is an extension that gives you a simple new tab interface for Chrome or other browsers.
 
+## Installation (Ill add it to the chrome webstore later on maybe)
+Go to chrome://extensions
+Enable Developer Mode
+Load the Unpacked/Packed extension
+
 ## Features
 - Customize wallpaper
 - Different Pokémon every visit

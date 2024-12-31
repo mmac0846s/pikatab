@@ -1,14 +1,15 @@
 <p align="center">
-  <img id="charzard" src="./src/pokemons/006.png">
+  <img id="charzard" src="./src/pokemons/025.png">
 </p>
 <h1 align="center">pikatab</h1>
 
+## pika tab will be on the google webstore after acceptance
 ## About
 pikatab is an extension that gives you a simple new tab interface for Chrome or other browsers.
 
 ## Features
 - Customize wallpaper
-- Different Pokémon images every visit
+- Different Pokémon every visit
 - Shows bookmarks
 
 ## Showcase
@@ -17,3 +18,4 @@ pikatab is an extension that gives you a simple new tab interface for Chrome or 
 
 ## Credits
 - [Max Hu's Wallpapers](https://github.com/maxhu08/wallpapers)
+- [Get favicons from any domain using a hidden google API](https://dev.to/derlin/get-favicons-from-any-website-using-a-hidden-google-api-3p1e)

@@ -3,7 +3,6 @@
 </p>
 <h1 align="center">pikatab</h1>
 
-## pika tab will be on the google webstore after acceptance
 ## About
 pikatab is an extension that gives you a simple new tab interface for Chrome or other browsers.
 

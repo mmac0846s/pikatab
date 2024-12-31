@@ -42,9 +42,6 @@ function getRandomPokemonImage() {
         console("[ERROR] Couldnt load Pokemon image");
         document.getElementById('pokemon').src = "./media/null.png"
     }
-    document.getElementById('pokemon').onclick = function() {
-        window.location.href = "https://www.serebii.net/pokedex-xy/" + formattedIndex + ".shtml";
-    }
 }
 
 window.onload = getRandomPokemonImage;

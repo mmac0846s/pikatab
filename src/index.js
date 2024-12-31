@@ -42,18 +42,15 @@ function getRandomPokemonImage() {
         console("[ERROR] Couldnt load Pokemon image");
         document.getElementById('pokemon').src = "./media/null.png"
     }
-    document.getElementById('pokemon').onclick = function() {
-        window.location.href = "https://www.serebii.net/pokedex-xy/" + formattedIndex + ".shtml";
-    }
 }
 
 window.onload = getRandomPokemonImage;
 //search
 document.getElementById('searchbar').addEventListener('keypress', function(event) {
     if (event.key === 'Enter') {
-        const query = event.target.value;
-        const googleSearchUrl = `https://www.google.com/search?q=${encodeURIComponent(query)}`;
-        window.location.href = googleSearchUrl;
+        chrome.search.query({
+            text: document.getElementById('searchbar').value
+        });
     }
 });
 //wallpapers

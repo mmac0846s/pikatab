@@ -1,12 +1,15 @@
 {
     "manifest_version": 3, 
-    "name": "poketab", 
+    "name": "pikatab", 
     "version": "1.0",
     "description": "new tab with random pokemon", 
     "chrome_url_overrides": {
       "newtab": "./src/index.html" 
     },
-    "permissions": ["bookmarks"],
+    "permissions": [
+        "bookmarks",
+        "search"
+    ],
     "background": {
         "service_worker": "./src/index.js"
     },

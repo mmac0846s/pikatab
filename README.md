@@ -1,9 +1,9 @@
 <p align="center">
   <img id="charzard" src="./src/pokemons/025.png">
-  <a src="https://chromewebstore.google.com/detail/pikatab/hnaehimfmepmddejgnodkjalkoklfkfp">DOWNLOAD</a>
 </p>
 <h1 align="center">pikatab</h1>
 
+[Download](https://chromewebstore.google.com/detail/pikatab/hnaehimfmepmddejgnodkjalkoklfkfp)
 ## About
 pikatab is an extension that gives you a simple new tab interface for Chrome or other browsers.
 

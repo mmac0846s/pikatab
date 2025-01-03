@@ -1,5 +1,6 @@
 <p align="center">
   <img id="charzard" src="./src/pokemons/025.png">
+  <a src="https://chromewebstore.google.com/detail/pikatab/hnaehimfmepmddejgnodkjalkoklfkfp">DOWNLOAD</a>
 </p>
 <h1 align="center">pikatab</h1>
 
